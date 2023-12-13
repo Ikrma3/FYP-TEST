@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58267036586",
+    "project_id": "saviour-647da",
+    "storage_bucket": "saviour-647da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58267036586:android:2c189059ca8804531699d3",
+        "android_client_info": {
+          "package_name": "com.example.shopp_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58267036586-ddco1r8ff1i3cu84c3846rl3fvb81ork.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATFZnoAiJQ7glh3spunNeUDxM0422fGBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58267036586-ddco1r8ff1i3cu84c3846rl3fvb81ork.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
